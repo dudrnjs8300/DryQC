@@ -1,0 +1,12 @@
+name: dryqc
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.11
+  - biopython=1.85
+  - pandas>=2.0
+  - prodigal=2.6.3
+  - diamond=2.1.8
+  - hmmer=3.4

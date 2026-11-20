@@ -1,0 +1,2 @@
+# Keep reference data byte-identical on every platform (SHA-256 values in README.md)
+data/* -text

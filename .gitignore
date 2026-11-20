@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.dmnd
+*.dmnd.source.sha256
+test_work/
+out_reads/
+out_assembly/
