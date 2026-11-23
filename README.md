@@ -81,14 +81,11 @@ all 11 checks should pass.
 
 ## Citation
 
-Software (version 1.0.0):
+If you use DryQC, please cite the software:
 
 On Y, Yoon EJ. DryQC (v1.0.0). Zenodo. 2026. https://doi.org/10.5281/zenodo.24452626
 
-Manuscript:
-
-On Y, Yoon EJ. DryQC: a biologically informed tool for quality assessment of bacterial whole-genome sequencing data.
-Manuscript submitted.
+A paper describing DryQC has not yet been published.
 
 ## License
 
