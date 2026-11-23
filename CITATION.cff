@@ -4,6 +4,9 @@ title: "DryQC"
 abstract: "Quality control of bacterial whole-genome sequencing reads and assemblies with 27 ribosomal protein genes."
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.24452626"
+date-released: "2026-11-23"
+repository-code: "https://github.com/dudrnjs8300/DryQC"
 license: MIT
 authors:
   - family-names: "On"
